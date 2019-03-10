@@ -1,1 +1,15 @@
+# vscode
 .vscode/
+
+# 中間生成物
+elm-stuff/
+repl-temp-*
+
+# アウトプット
+index.html
+elm.js
+elm.min.js
+
+# Node.js 関連ファイル
+node_modules/
+npm-debug.log*
